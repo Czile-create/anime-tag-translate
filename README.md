@@ -1,2 +1,11 @@
 # anime-tag-translate
-Chinesenization of anime tags. 动漫标签汉化工程
+Chinesenization of anime tags. 
+
+动漫标签汉化工程。
+
+当前动漫标签覆盖面已经相当广阔了，但是动漫标签基本以英文以及罗马音为主，对中文搜索、索引、展示不够友好。本项目旨在改善这一情况。
+
+## Detail
+请参照文件 `tags.json` ，我会以最慢每周100个标签的速度对上述9000多个标签进行汉化，欢迎大家补充标签、以及参与汉化。提交的PR和issue我会尽快处理。
+
+汉化讨论群：821525171
